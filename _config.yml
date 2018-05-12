@@ -78,6 +78,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  #reposition: https://github.com/veoery/veoery.github.io.git
   repo: git@github.com:veoery/veoery.github.io
   branch: master
